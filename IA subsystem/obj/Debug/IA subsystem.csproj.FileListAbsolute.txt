@@ -1,0 +1,48 @@
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\IA subsystem.exe.config
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\IA subsystem.exe
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\IA subsystem.pdb
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csprojAssemblyReference.cache
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\MainWindow.g.cs
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\App.g.cs
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem_MarkupCompile.cache
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem_MarkupCompile.lref
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\MainWindow.baml
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.g.resources
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA_subsystem.Properties.Resources.resources
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.GenerateResource.cache
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.CoreCompileInputs.cache
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.exe
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.pdb
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.CopyComplete
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\AdminRegistration.g.cs
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\obj\Debug\AdminRegistration.baml
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.dll
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.xml
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilsiy\OneDrive\Рабочий стол\IA subsystem\IA subsystem\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\IA subsystem\IA subsystem\bin\Debug\IA subsystem.exe.config
+C:\IA subsystem\IA subsystem\bin\Debug\IA subsystem.exe
+C:\IA subsystem\IA subsystem\bin\Debug\IA subsystem.pdb
+C:\IA subsystem\IA subsystem\bin\Debug\System.Data.SqlServerCe.dll
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csprojAssemblyReference.cache
+C:\IA subsystem\IA subsystem\obj\Debug\MainWindow.g.cs
+C:\IA subsystem\IA subsystem\obj\Debug\App.g.cs
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem_MarkupCompile.cache
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem_MarkupCompile.lref
+C:\IA subsystem\IA subsystem\obj\Debug\MainWindow.baml
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.g.resources
+C:\IA subsystem\IA subsystem\obj\Debug\IA_subsystem.Properties.Resources.resources
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.GenerateResource.cache
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.CoreCompileInputs.cache
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.csproj.CopyComplete
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.exe
+C:\IA subsystem\IA subsystem\obj\Debug\IA subsystem.pdb
+C:\IA subsystem\IA subsystem\obj\Debug\AccessWindow.g.cs
+C:\IA subsystem\IA subsystem\obj\Debug\AccessWindow.baml
+C:\IA subsystem\IA subsystem\obj\Debug\Registration.g.cs
+C:\IA subsystem\IA subsystem\obj\Debug\Registration.baml
+C:\IA subsystem\IA subsystem\obj\Debug\AccountManagement.g.cs
+C:\IA subsystem\IA subsystem\obj\Debug\AccountManagement.baml
